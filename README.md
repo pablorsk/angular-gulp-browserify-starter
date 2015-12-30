@@ -1,6 +1,6 @@
 # New package in AngularJS-Gulp-Browserify Starter App: ng-Table
 
-This is a FORK of [AngularJS-Gulp-Browserify Starter App](https://github.com/pablorsk/angular-gulp-browserify-starter) with a simple intention:
+This is a FORK of [AngularJS-Gulp-Browserify Starter App](https://github.com/goodbomb/angular-gulp-browserify-starter) with a simple intention:
 Add a new npm package, in this case ng-table.
 
 These are the modified files:
@@ -18,3 +18,5 @@ And this is a new folder with View and Controller:
 ```
 	app/modules/table/
 ```
+
+[@pablorsk](http://twitter.com/pablorsk)
