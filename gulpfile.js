@@ -72,6 +72,7 @@ var filePath = {
             './libs/angular-ui-router/release/angular-ui-router.js',
             './libs/jquery/dist/jquery.js',
             './libs/bootstrap/dist/js/bootstrap.js',
+            './libs/ng-table/dist/ng-table.js',
             './libs/domready/ready.js',
             './libs/lodash/lodash.js',
             './libs/restangular/dist/restangular.js'
@@ -80,6 +81,7 @@ var filePath = {
     vendorCSS: {
         src: [
             './libs/bootstrap/dist/css/bootstrap.css', // v3.1.1
+            './libs/ng-table/dist/css/ng-table.css',
             './libs/font-awesome/css/font-awesome.css' // v4.1.0
         ]
     },

@@ -26,6 +26,7 @@
     "font-awesome": "~4.4.0",
     "jquery": "~2.1.4",
     "lodash": "~3.10.1",
-    "restangular": "~1.5.1"
+    "restangular": "~1.5.1",
+    "ng-table": "~0.8.3"
   }
 }

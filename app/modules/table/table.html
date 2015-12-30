@@ -1,0 +1,14 @@
+<div class="modules-table-view">
+    <div class="module-header">
+        <h1>My ngTable</h1>
+        <p>{{testVar}}</p>
+        <table ng-table="tableReady" class="table" show-filter="true">
+            <tr ng-repeat="user in $data">
+                <td title="'Name'" filter="{ name: 'text'}" sortable="'name'">
+                    {{user.name}}</td>
+                <td title="'Age'" filter="{ age: 'number'}" sortable="'age'">
+                    {{user.age}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
